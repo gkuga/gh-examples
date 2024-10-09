@@ -1,1 +1,3 @@
 - [doi-t/manage_milestones_with_gh.md](https://gist.github.com/doi-t/5735f9f0f7f8b7664aa6739bc810a2cc)
+- [gh api](https://cli.github.com/manual/gh_api)
+- [REST API endpoints for milestones](https://docs.github.com/en/rest/issues/milestones)
